@@ -3,20 +3,17 @@ layout: default
 tags: home
 ---
 
-# Hi there, <br/> I'm Jonathon Belotti.
+# Hi there, <br/> I'm Yehia Ibrahim.
 
-### I'm a software engineer with a focus on data & platform engineering.
+### I'm a software engineer with a focus on operations & embedded systems.
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
+### Currently, I help build industrial switches.
 
 <br>
 
-I can usually be found programming or reading.
-I'm bullish on, and a big booster of:
+I can usually be found developing SW, on the phone with my mom, or watching a movie with my wife.
 
-- [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. I was a main contributor to Bazel's Python tooling, including [rules_python](https://github.com/bazel-contrib/rules_python).
-- Good old-fashioned books. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Shakespearean Tragedy_](https://www.goodreads.com/book/show/437318.Shakespearean_Tragedy).
-- [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
+I'm Currently trying to do the Cloud Resume Challenge.
 
 <br>
 

@@ -7,27 +7,27 @@ tags: about
 
 ### Origins
 
-I was born and raised in the southeast suburbs of Victoria, Australia — a place almost perfecting the ['surbubia as giant nursery'](http://www.paulgraham.com/nerds.html) vision of urban development.
+I was born and raised in Giza, Egypt — a place most known for the pyramids, but more recently, the grand egyptian museum.
 
 <div class="hero-images-container">
   <div class="hero-images">
     <div>
-      <img src="/images/about/brighton-beach-melbourne.png" alt="Brighton Beach, Melbourne" style="border-radius: 0.4em;">
+      <img src="/images/about/pyramids.jpg" alt="The Pyramids of Giza, Egypt" style="border-radius: 0.4em;">
       <div style="color: #777; font-size: 0.96em; padding-top: 0.4em; text-align: center;">
-        Brighton Beach, Melbourne &mdash; famous for its colorful beach boxes.
+        The Pyramids of Giza, Egypt &mdash;.
       </div>
     </div>
     <div>
-      <img src="/images/about/bentleigh-birds-eye-view.jpg" alt="Bentleigh Bird's Eye View" style="border-radius: 0.4em;">
+      <img src="/images/about/grand_museum.jpg" alt="The Grand Museum" style="border-radius: 0.4em;">
       <div style="color: #777; font-size: 0.96em; padding-top: 0.4em; text-align: center;">
-        A bird’s-eye view of Bentleigh, the suburb where I grew up in Victoria, Australia.
+        The Grand Museum, Giza.
       </div>
     </div>
   </div>
 </div>
 
-Until I found programming I could usually be found at Brighton Beach, our local spot. You can buy one of those 'beach boxes' pictured for around
-$300k. The most expensive deck chair and jet ski storage you can find. Fortunately, broke uni kids can use their decks for free.
+Even though I live 20 minutes away from the pyramids, I have been there only once in my life as a kid, I guess you do not really know
+how important something is, if you are used to it.
 
 <style>
 .hero-images-container {
@@ -152,58 +152,32 @@ $300k. The most expensive deck chair and jet ski storage you can find. Fortunate
 
 ### Day-by-day
 
-Currently, I help build [**modal.com**](https://modal.com), AI infrastructure that developers love.
-I joined in August 2022 as lucky #7. At the time the company was pre-PMF and pre-revenue, but full of 
-shockingly capable engineers with whom I still enthusiastically struggle to keep up with. 
+Currently, I work at Kontron AG, I joined in October 2023, and since Then I help build Embedded Linux devices, such as switches.
+I work mainly on the build system and on the switch application. Even though my time at Kontron has not been that long, I feel
+like having a second family.
 
-In August 2025 Modal announced its $1.1B Series B, and by year end we'd hit 70+ people and 9-figure ARR.
-
-<span style="color: #777; cursor: pointer; text-decoration: underline;" onclick="document.getElementById('dashboard').scrollIntoView({ behavior: 'smooth' });">
-  (Scroll down to see some personal dashboard stats powered by Modal!)
-</span>
-
-<div class="modal-images-container">
-  <div class="modal-images">
-    <div class="highlight-face">
-      <img src="/images/portugal-offsite.jpeg" alt="Portugal Offsite" style="border-radius: 0.4em;">
-    </div>
-    <img src="/images/about/modal-office-view.jpeg" alt="Modal Office View" style="border-radius: 0.4em;">
-  </div>
-  <div class="modal-captions">
-    <figcaption style="color: #777;">The team is bigger than this now, but in that photo my eyes are closed!</figcaption>
-    <figcaption style="color: #777;">This office view will never get old.</figcaption>
-  </div>
-</div>
-
-
-
-I have been at Modal for almost 3.5 years now, and these days do mostly engineering management. Necessarily, my coding pace has slipped a bit, from #2 committer
-to around #5. Alas.
 
 ### Where
 
 <figure style="margin: 0; margin-bottom: 1em;">
-  <img src="/images/about/fort-greene.avif" alt="Fort Greene Park, Brooklyn" style="border-radius: 0.4em;">
+  <img src="/images/about/saarbruecken.jpg" alt="Saarbrücken, Saarland" style="border-radius: 0.4em;">
 </figure>
 
-Today, I live in NYC. When I'm not working, you can find me walking a new part of the five boroughs, or stopped in a park to read. There's a lot to love in this vast, grubby city, and I hope to see all of it by foot.
+Today, I live in Saarbrücken. When I'm not working, you can find me - if it is not raining - walking in the altstadt. Even though the city is small, there's a lot to love in it, espcially in its approximity to other lovely cities.
 
 
-More specifically, I live in East Village. It's great, but my paradise is still Fort Greene and I'll move back there in the midyear.
 ### Past
 
-I spent 3.5 years at [Canva](https://www.canva.com/), joining when it had almost 300 engineers and leaving when it had about 1,800. I joined as a graduate, hobbling around with a broken leg, and ended up as team lead
-of ML Platform. The whole way through I grew under the mentorship of [Greg Roodt](https://www.linkedin.com/in/groodt/).
+Before working at Kontron, I worked at MRS Electronic as an Embedded systems Engineer, I worked there for only three month, still,
+my time there was lovely.
 
-When not doing Data or ML Platform stuff, I spent quite a bit of time working with the [Bazel](https://bazel.build/) build system, and helped maintain the [Python rules](https://github.com/bazelbuild/rules_python) for Bazel. It's the future, get on it.
-
-Previous to Canva I worked at [Zendesk](https://www.zendesk.com/) on their [Answer Bot](https://www.zendesk.com/answer-bot/) machine learning product, and at [Atlassian](https://www.atlassian.com) as an application developer intern in their reliability/monitoring team.
+Previous to MRS Electronic, I worked as working student at Fachhochschule Südwestfalen during my Master's studies. I helped developing
+MLPro, an ML framework for standardized Machine Learning.
 
 ### Life
 
-2025 was capped off with a proposal to Keeli, my girlfriend of 8 years. We're pretty excited about what's next. 
+2025 was capped off with my marriage to Naira, the loveliest and sweetest person I have ever known. We're pretty excited about what's next.
 
-A litore ad astra.
 
 <figure style="margin: 0; margin-bottom: 1em;">
   <img src="/images/about/proposal.jpg" alt="Proposal"

@@ -1,9 +1,8 @@
 # Site settings
-title: Jonathon Belotti [thundergolfer]
-author: Jonathon Belotti
+title: Yehia Ibrahim
+author: Yehia Ibrahim
 description: "No hugs, some learning"
 baseurl: ""
-url: "https://thundergolfer.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -26,10 +25,9 @@ extended_fonts: false
 enable_anchorjs: true
 
 # Social icons
-github_username: thundergolfer
+github_username: yehiaibrahim
 stackoverflow_id:
-twitter_username: jonobelotti_io
-linkedin_username: jonathonbelotti
+linkedin_username: yehiaibrahim
 
 text:
   pagination:
