@@ -5,7 +5,7 @@ tags: home
 
 # Hi there, <br/> I'm Yehia Ibrahim.
 
-### I'm a software engineer with a focus on operations & embedded systems.
+### I'm a software engineer with a focus on software automation & operations.
 
 ### Currently, I help build industrial switches.
 
