@@ -178,12 +178,12 @@ MLPro, an ML framework for standardized Machine Learning.
 
 2025 was capped off with my marriage to Naira, the loveliest and sweetest person I have ever known. We're pretty excited about what's next.
 
-
+<!--
 <figure style="margin: 0; margin-bottom: 1em;">
   <img src="/images/about/proposal.jpg" alt="Proposal"
        style="border-radius: 0.4em; object-fit: cover; object-position: bottom; width: 100%; height: 600px;">
 </figure>
-
+-->
 <div id="stats" class="hidden">
 
 <h3 id="dashboard"><code>#dashboard</code></h3>
