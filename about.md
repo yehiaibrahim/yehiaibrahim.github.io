@@ -26,7 +26,7 @@ I was born and raised in Giza, Egypt — a place most known for the pyramids, bu
   </div>
 </div>
 
-Even though I live 20 minutes away from the pyramids, I have been there only once in my life as a kid, I guess you do not really know
+Even though I used to live 20 minutes away from the pyramids, I have been there only once in my life as a kid, I guess you do not really know
 how important something is, if you are used to it.
 
 <style>
@@ -152,7 +152,7 @@ how important something is, if you are used to it.
 
 ### Day-by-day
 
-Currently, I work at Kontron AG, I joined in October 2023, and since Then I help build Embedded Linux devices, such as switches.
+Currently, I work at Kontron Europe GmbH, I joined in October 2023, and since Then I help build Embedded Linux devices, such as switches.
 I work mainly on the build system and on the switch application. Even though my time at Kontron has not been that long, I feel
 like having a second family.
 

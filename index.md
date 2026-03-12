@@ -13,7 +13,7 @@ tags: home
 
 I can usually be found developing SW, on the phone with my mom, or watching a movie with my wife.
 
-I'm Currently trying to do the Cloud Resume Challenge.
+I'm Currently working on several automation ideas for our small family business.
 
 <br>
 
