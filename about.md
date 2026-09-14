@@ -168,10 +168,7 @@ Today, I live in Saarbrücken. When I'm not working, you can find me - if it is 
 
 ### Past
 
-Before working at Kontron, I worked at MRS Electronic as an Embedded systems Engineer, I worked there for only three month, still,
-my time there was lovely.
-
-Previous to MRS Electronic, I worked as working student at Fachhochschule Südwestfalen during my Master's studies. I helped developing
+Before working at Kontron, I worked as working student at Fachhochschule Südwestfalen during my Master's studies. I helped developing
 MLPro, an ML framework for standardized Machine Learning.
 
 ### Life
